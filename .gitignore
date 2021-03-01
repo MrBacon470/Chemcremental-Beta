@@ -1,2 +1,7 @@
 
 .DS_Store
+Build/Build 2.json
+Build/Build.data 2.unityweb
+Build/Build.wasm.code 2.unityweb
+Build/Build.wasm.framework 2.unityweb
+Build/UnityLoader 2.js
